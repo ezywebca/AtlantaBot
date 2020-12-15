@@ -125,7 +125,7 @@ class Help extends Command {
 			dashboardLink: "http://newbot.onthewifi.com",
 			inviteLink: await this.client.generateInvite("ADMINISTRATOR"),
 			githubLink: "#",
-			supportLink: "https://phoxlist.anonymousottawa.repl.co/servers/783873034494148609/vote"
+			supportLink: "https://phoxlist.anonymousottawa.repl.co/servers/783873034494148609"
 		}));
 		embed.setAuthor(message.translate("general/help:TITLE", {
 			name: this.client.user.username

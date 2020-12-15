@@ -1,7 +1,7 @@
 {
     "DESCRIPTION": "Shows the number of people you have invited to the server!",
     "USAGE": "{{prefix}}invitations (@member)",
-    "EXAMPLES": "{{prefix}}invitations\n{{prefix}}invitations @Androz#2091",
+    "EXAMPLES": "{{prefix}}invitations\n{{prefix}}invitations T̶̐͝ē̶̑m̴̋͊ṕ̸̔l̶͋͆â̵̛r̷̔̕#0001",
     "NOBODY_AUTHOR": "You didn't invite anyone to the server!",
     "NOBODY_MEMBER": "{{member}} didn't invite anyone to the server!",
     "CODE": "**{{code}}** ({{uses}} uses) | {{channel}}",

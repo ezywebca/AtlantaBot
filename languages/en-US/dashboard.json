@@ -1,5 +1,5 @@
 {
-    "FIRST_LOGIN": "{{user}} logged on to the dashboard for the first time! :tada:",
+    "FIRST_LOGIN": "{{user}} logged on to NewBot dashboard for the first time! :tada:",
     "NOT_FOUND": "Oops! Page not found.",
     "NOT_FOUND_CONTENT": "We did not find the page you were looking for. In the meantime, you can go back to the dashboard or try using the search form.",
     "ERR_OCCURRED": "Oops! Something went wrong.",

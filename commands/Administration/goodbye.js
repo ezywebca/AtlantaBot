@@ -36,7 +36,7 @@ class Goodbye extends Command {
 
 		if (args[0] === "off") {
 			data.guild.plugins.goodbye = {
-				enabled: false,
+				enabled: true,
 				message: null,
 				channelID: null,
 				withImage: null

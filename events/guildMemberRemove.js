@@ -1,5 +1,5 @@
 const Canvas = require("canvas"),
-	Discord = require("discord.js");
+Discord = require("discord.js");
 const { resolve } = require("path");
 // Register assets fonts
 Canvas.registerFont(resolve("./assets/fonts/theboldfont.ttf"), { family: "Bold" });

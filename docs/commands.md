@@ -18,7 +18,7 @@ Here's the list of NewBot commands. This one contains more than **110 commands**
 | **hastebin**     | Upload your text on hastebin!                                     | hastebin [text]                | 5 seconds |
 | **help**         | Show commands list or specific command help.                      | help (command)                 | 5 seconds |
 | **invitations**  | Shows the number of people you have invited to the server!        | invitations (@member)          | 3 seconds |
-| **invite**       | Shows Atlanta links!                                              | invite (copy)                  | 5 seconds |
+| **invite**       | Shows NewBot links!                                               | invite (copy)                  | 5 seconds |
 | **minecraft**    | Shows information about a Minecraft server!                       | minecraft [ip]                 | 3 seconds |
 | **permissions**  | Displays the member's permissions in the channel                  | permissions (@member)          | 1 seconds |
 | **ping**         | Show bot's ping                                                   | ping                           | 1 seconds |

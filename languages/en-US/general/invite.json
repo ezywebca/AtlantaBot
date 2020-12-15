@@ -1,10 +1,10 @@
 {
-    "DESCRIPTION": "Shows Atlanta links!",
+    "DESCRIPTION": "Shows NewBot links!",
     "USAGE": "{{prefix}}invite (copy)",
     "EXAMPLES": "{{prefix}}invite\n{{prefix}}invite copy",
-    "LINKS": "Atlanta links",
+    "LINKS": "NewBot links",
     "TIP": "Send `{{prefix}}invite copy` to be able to copy the invite link!",
-    "ADD": "Invite Atlanta",
-    "VOTE": "Vote for Atlanta",
+    "ADD": "Invite NewBot",
+    "VOTE": "Vote for Our Discord Server!",
     "SUPPORT": "Get Support"
 }

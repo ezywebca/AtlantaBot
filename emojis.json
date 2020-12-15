@@ -49,10 +49,10 @@
 		"offline": ":white_square_button:"
 	},
 	"letters": {
-		"a": ":regional_indicator_a: ",
-		"w": ":regional_indicator_w: ",
-		"r": ":regional_indicator_r: ",
-		"d": ":regional_indicator_d: "
+		"a": " :regional_indicator_a: ",
+		"w": " :regional_indicator_w: ",
+		"r": " :regional_indicator_r: ",
+		"d": " :regional_indicator_d: "
 	},
 	"categories": {
 		"administration": ":person_fencing:",
